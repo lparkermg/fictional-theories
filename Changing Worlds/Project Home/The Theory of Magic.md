@@ -4,7 +4,9 @@
 This document will explain what Magic is, why it exists and how it's used.
 
 ## What is Magic?
-Magic is a form of raw energy which shows itself visually as coloured light based on intent and power. It can be stored in all objects of the same world without the deteriation of potency or charge when it is in storage. Once stored in an object inanimate or otherwise can then be used in the ways set by the law of the world.
+Magic is a form of raw energy which shows itself visually as coloured light based on intent and power. It can be stored in all objects of the same world without the deteriation of potency or charge when it is in storage. Once stored in an object inanimate or otherwise can then be used in the ways set by the law of the world. 
+
+Since magic is an energy mathematical formulas can be used to calculate most of the parts from the charge rate, to the Impact and Resonance.
 
 ## Why does it exist?
 In this case Magic exists to help the worlds creator navigate its own subconsiously made world following the phrase 'Paint this white world in colour...'.
@@ -20,7 +22,7 @@ The Magic in this world is also used to formulate activation puzzles as a form o
 The Magic Usage Process as a whole process is pretty simple it's split into a Y shape with four seperate processes, starting with the Charge, then the said charge is fired and finally depending on if an object is impacted or not then it will fire an impact and potentially a resonance or the charge will just disperse.
 
 ### Charge:
-
+The charge part of magic usage is where you focus magic into a physical form ready to fire. The mathematical equation for working out the charge rate is the following ab/(c/2) where a is the magical potency of the world, b is an unknown gradually incrementing variable and c is the maximum charge that the entity can hold without focus destabilisation.
 
 ### Fire:
 
