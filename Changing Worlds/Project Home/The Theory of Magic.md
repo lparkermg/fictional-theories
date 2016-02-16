@@ -14,6 +14,18 @@ In this world, magic is used actively only by the worlds creator in the form of 
 
 Even though Magic is only used actively by the worlds creator it is still a form of energy, which means that it can be used in storage and to 'show or hide' objects. 
 
-The Magic in this world is also used to formulate activation puzzles as a form of the worlds self defence. 
+The Magic in this world is also used to formulate activation puzzles as a form of the worlds self defence, in stopping anyone or anything from accessing its core. 
 
 ## Magic Usage Process:
+The Magic Usage Process as a whole process is pretty simple it's split into a Y shape with four seperate processes, starting with the Charge, then the said charge is fired and finally depending on if an object is impacted or not then it will fire an impact and potentially a resonance or the charge will just disperse.
+
+### Charge:
+
+
+### Fire:
+
+
+### Impact and Resonance:
+
+
+### Dispertion:
