@@ -25,7 +25,7 @@ The Magic Usage Process as a whole process is pretty simple it's split into a Y 
 The charge part of magic usage is where you focus magic into a physical form ready to fire. The mathematical equation for working out the charge rate is the following ab/(c/2) where a is the magical potency of the world, b is an unknown gradually incrementing variable and c is the maximum charge that the entity can hold without focus destabilisation.
 
 ### Fire:
-
+The fire part of magic usage sets in motion the Dispertion part as it uses the charged magic to move in the direction that it is sent. See the Dispertion section below for more detailed information into the dispertion process. 
 
 ### Impact and Resonance:
 
