@@ -28,6 +28,10 @@ The charge part of magic usage is where you focus magic into a physical form rea
 The fire part of magic usage sets in motion the Dispertion part as it uses the charged magic to move in the direction that it is sent. See the Dispertion section below for more detailed information into the dispertion process. 
 
 ### Impact and Resonance:
+The Impact and Resonance part of magic usage is split into two parts.
 
+The first being Imapct, this is where a charge of magic, fired or otherwise impacts upon an object causing the charge to be absorbed by the object. Until either the charge is completely absorbed, or the object impacted cannot hold any more magic, only then will the second part happen.
+
+This second part is Resonance, this is where the excess magic charge is compressed at the centre of the object and is then forced to expand outwards. This expansion will continue until either the magic charge powering it disperses or it impacts another object starting the Impact process again.
 
 ### Dispertion:
