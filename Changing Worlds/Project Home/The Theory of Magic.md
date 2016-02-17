@@ -34,4 +34,7 @@ The first being Imapct, this is where a charge of magic, fired or otherwise impa
 
 This second part is Resonance, this is where the excess magic charge is compressed at the centre of the object and is then forced to expand outwards. This expansion will continue until either the magic charge powering it disperses or it impacts another object starting the Impact process again.
 
+Like the Charge part of the Magic Usage Process the Impact and Resonance have a mathematical equation for working out the how much resonance will be produced and how far it will go. It can be worked out in two parts, the first being a-(b-c) which is the amount absorbed in the imact. Where a is the current charge impacting the object, b is the objects maximum amount of magic it can hold and c is the objects current amount of magic it holds. The second part is a - b is calculates the maximum resonance radius, where a is the current charge imapacting the object and b is the result of the previous equation.
+
 ### Dispertion:
+
